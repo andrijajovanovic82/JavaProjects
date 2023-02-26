@@ -1,5 +1,3 @@
-package OsmiCas;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 

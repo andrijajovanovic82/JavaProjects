@@ -1,5 +1,3 @@
-package OsmiCas;
-
 import java.util.Scanner;
 
 public class D_17_Andrija_Jovanovic {
